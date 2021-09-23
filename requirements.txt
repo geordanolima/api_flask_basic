@@ -1,0 +1,5 @@
+db==0.1.1
+db-sqlite3==0.0.1
+Flask==2.0.1
+Flask-Cors==3.0.10
+pycodestyle==2.7.0
