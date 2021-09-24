@@ -1,4 +1,4 @@
 *.env
 *.vscode
-database.db
+banco.db
 *pycache*
